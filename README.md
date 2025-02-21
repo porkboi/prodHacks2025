@@ -21,4 +21,8 @@ Fine-tuned LLaMA 3 using r/WSB web-scraped data, LoRA adapters were used to modi
 
 ## Screenshots
 
+![alt text](https://github.com/porkboi/prodHacks2025/blob/main/img/Screenshot%202025-02-21%20121219.png)
 
+![alt text](https://github.com/porkboi/prodHacks2025/blob/main/img/Screenshot%202025-02-21%20121233.png)
+
+![alt text](https://github.com/porkboi/prodHacks2025/blob/main/img/Screenshot%202025-02-21%20121249.png)
